@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicación Android TV que tiene un Control con funciones básicas, es una app de películas de las más recientes de acuerdo a TMDB
+Uso de API'S, Conexión a YouTube
 
 A few resources to get you started if this is your first Flutter project:
 
